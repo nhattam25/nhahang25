@@ -1,0 +1,55 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#header1 {
+    padding-top: 35%;
+    background: url(./img/amthuc7.png) top center / cover no-repeat;
+}
+
+#slider {
+   
+}
+
+#slider .content-section {
+    width: 800px;
+    margin-left: 520px;
+    padding: 50px 0;
+}
+
+#slider .section-header {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 800;
+    letter-spacing: 3px;
+}
+
+#slider .section-subheading {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 10px;
+    opacity: 0.9;
+    font-style: italic;
+}
+
+#slider .about-text {
+    font-size: 15px;
+    text-align: justify;
+    margin-top: 10px;
+    line-height: 1.6;
+}
+
+#slider img {
+    margin-left: 110px;
+    margin-top: -300px;
+    width: 350px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+#content {
+    padding-top: 35%;
+    background: url(./img/amthuc9.png) top center / cover no-repeat;
+}

@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#header {
+
+}
+
+#header .header-section {
+    text-align: center;
+    margin-left: 40px;
+    font-size: 25px;
+    font-weight: 400;
+    letter-spacing: 3px;
+}
+
+#header .header-subheading {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-left: 50px;
+    opacity: 0.7;
+    font-style: italic;
+}
+
+
+
